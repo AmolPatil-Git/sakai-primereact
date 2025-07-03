@@ -25,3 +25,6 @@ To learn more about Next.js, take a look at the following resources:
 primereact
 
 https://sakai.primereact.org/
+
+
+this prime react Admin panel template 
